@@ -1,0 +1,80 @@
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Uye_Ekle.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe.config
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListeleme.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListeleme.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVer.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListeleme.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapİade.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Siralama.resources
+C:\Users\ilyas.kilic\source\repos\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Grafik.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVer.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapİade.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Grafik.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Login.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Siralama.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Uye_Ekle.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe.config
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\Desktop\Kutuphane\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe.config
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVer.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapİade.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Grafik.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Login.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Siralama.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Uye_Ekle.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeGiris.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe.config
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVer.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapİade.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Grafik.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Login.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Siralama.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeKitapListesi.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListeleme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Uye_Ekle.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeEkranı.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.SifreYenileme.resources
+C:\Users\ilyas.kilic\Desktop\Kutuphane - Kopya 23.12.2019\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeEmanetListele.resources
