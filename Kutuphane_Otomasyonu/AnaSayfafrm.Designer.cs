@@ -145,7 +145,7 @@
             this.btnGrafik.TabIndex = 8;
             this.btnGrafik.Text = "Grafikler";
             this.btnGrafik.UseVisualStyleBackColor = true;
-            this.btnGrafik.Click += new System.EventHandler(this.btnGrafik_Click);
+            
             // 
             // btn_Siralama
             // 
@@ -156,7 +156,7 @@
             this.btn_Siralama.TabIndex = 7;
             this.btn_Siralama.Text = "Sıralama";
             this.btn_Siralama.UseVisualStyleBackColor = true;
-            this.btn_Siralama.Click += new System.EventHandler(this.btn_Siralama_Click);
+            
             // 
             // btnKitap_Ekle
             // 

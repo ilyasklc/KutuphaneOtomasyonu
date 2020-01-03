@@ -65,19 +65,9 @@ private void btnUye_Ekle_Click(object sender, EventArgs e)
             emanet_kitap_iade.ShowDialog();
         }
 
-        private void btn_Siralama_Click(object sender, EventArgs e)
-        {
-            Siralama siralama_sayfasi = new Siralama();
-            siralama_sayfasi.ShowDialog();
+       
 
-        }
-
-        private void btnGrafik_Click(object sender, EventArgs e)
-        {
-            Grafik grafik = new Grafik();
-            grafik.ShowDialog();
-        }
-
+       
         private void Form1_Load(object sender, EventArgs e)
         {
 
